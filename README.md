@@ -1,4 +1,4 @@
-# Pet-Sim-X-Dupe-Script
+# Pet-Sim-X-Op-Auto-Farm
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXGameKiller/Pet-Sim-X-Dupe-Script/main/Op%20Dupe%20Script.lua"))()
-loadstring(game:HttpGet("https://pastebin.com/raw/rbZ6kxGQ"))()
+loadstring(game:HttpGet("https://github.com/PSXGameKiller/Pet-Sim-X-Dupe-Script/blob/main/Op%20Auto%20Farm%20Script.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/TwEU13Xy"))()
